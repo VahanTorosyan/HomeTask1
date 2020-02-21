@@ -114,7 +114,7 @@ public class Main {
             x5 = Integer.MIN_VALUE;
         }
 
-        System.out.print("increasing progression : ");
+        System.out.print("increasing Progression : ");
         System.out.println(a5 + " " + a4 + " " + a3 + " " + a2 + " " + a1);
 
     }
